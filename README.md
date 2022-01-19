@@ -19,6 +19,8 @@ Run the notebook:
 
 ## License and terms of usage
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5876258.svg)](https://doi.org/10.5281/zenodo.5876258)
+
 Alexander Kmoch and Evelyn Uuemaa
 
 We hope that the materials provided here would be helpful for others. Thus, we share all the lesson materials openly, and also our source codes and lesson materials are openly available.
